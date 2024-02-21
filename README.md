@@ -9,3 +9,5 @@ Details of the repo are not available here !!!
 
 
 ![websocket](websocket_revize.png)
+
+![websocket](AI.png)
