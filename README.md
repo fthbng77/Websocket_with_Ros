@@ -2,9 +2,12 @@
 Preparing websocket using react, node.js, flask and ros
 
 
-Details of the repo are not available here !!!
-
+Kendi ürettiğimiz araçlarımızın yer kontrol istasyon arayüzü, aracımızdan gelen anlık telemetri verisi kamera görüntüsü ve haritada konumunu anlık olarak gösterirken kameradan gelen görüntüleri yapay zeka modeli kullanarak çıkarım yapmaktadır.
 
 ![websocket](websocket.png)
 
-![websocket](AI.png)
+Yapay zeka sekmesi:
+
+<p align="left">
+  <img src="AI.png" width="590" height="800" />
+</p>
