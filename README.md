@@ -6,8 +6,6 @@ Kendi ürettiğimiz araçlarımızın yer kontrol istasyon arayüzü, aracımız
 
 ![websocket](websocket.png)
 
-Yapay zeka sekmesi:
+Arayüzün Yapay zeka ekranları ve Uçuş bilgilerini elde edeceğimiz HUD ekranları ile kullanımı:
 
-<p align="left">
-  <img src="AI.png" width="590" height="800" />
-</p>
+![websocket](update-web.png)
